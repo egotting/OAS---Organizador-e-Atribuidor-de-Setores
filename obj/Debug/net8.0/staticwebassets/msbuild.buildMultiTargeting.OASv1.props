@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/OASv1.props" />
+</Project>
