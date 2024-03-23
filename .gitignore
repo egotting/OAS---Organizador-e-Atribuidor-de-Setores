@@ -1,1 +1,6 @@
-appsettings.jsonappsettings.Development.json.envMigrations.dbProdutos.db-shmProdutos.db-waltest.log
+Produtos.db
+Produtos.db-shm
+Produtos.db-wal
+Migrations
+
+appsettings.json
